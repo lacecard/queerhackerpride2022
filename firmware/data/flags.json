@@ -1,0 +1,122 @@
+{
+    "flags": [
+        {
+            "name": "qvp",
+            "animation": {
+                "style": "sparkle",
+                "fade": 0,
+                "mix": 0,
+                "smooth": 1,
+            },
+            "colors": ["#FF0099", "#FF9933", "#99CC33", "#663399", "#000000"]
+        },
+        {
+            "name": "trans",
+            "animation": {
+                "style": "sparkle",
+                "fade": 1,
+                "mix": 1,
+                "smooth": 1,
+            },
+            "colors": ["#5BCEFA", "#FF0099", "#FFFFFF", "#FF0099","#5BCEFA"]
+        },
+        {
+            "name": "classic_pride",
+            "animation": {
+                "style": "sweep",
+                "smooth": 1
+            },
+            "colors": ["#F50000", "#FF8D00", "#FFEE00", "#028121", "#004CFF", "#770088"]
+        },
+        {
+            "name": "progress_pride",
+            "animation": {
+                "style": "sweep",
+                "smooth": 1
+            },
+            "colors": ["#F50000", "#FF8D00", "#FFEE00", "#028121", "#004CFF", "#770088", "#000000", "#613915", "#73D7EE", "#FFAFC7", "#FFFFFF"]
+        },
+        {
+            "name": "bisexual",
+            "animation": {
+                "style": "sweep",
+                "smooth": 1
+            },
+            "colors": ["#D60270", "#9B4F96", "#0038A8"]
+        },
+        {
+            "name": "pansexual",
+            "animation": {
+                "style": "sweep",
+                "smooth": 1
+            },
+            "colors": ["#FF1C8D", "#FFD700", "#1AB3FF"]
+        },
+        {
+            "name": "nonbinary",
+            "animation": {
+                "style": "sweep",
+                "smooth": 1
+            },
+            "colors": ["#FCF431", "#FCFCFC", "#9D59D2", "#000000"]
+        },
+        {
+            "name": "lesbian",
+            "animation": {
+                "style": "sweep",
+                "smooth": 1
+            },
+            "colors": ["#D62800", "#FF9B56", "#FFFFFF", "#D462A6", "#A40062"0]
+        },
+        {
+            "name": "agender",
+            "animation": {
+                "style": "sweep",
+                "smooth": 1
+            },
+            "colors": ["#000000", "#BABABA", "#FFFFFF", "#BAF484", "#FFFFFF", "#BABABA", "#000000"]
+        },
+         {
+            "name": "asexual",
+            "animation": {
+                "style": "sweep",
+                "smooth": 1
+            },
+            "colors": ["#000000", "#A4A4A4", "#FFFFFF", "#810081"]
+        },
+        {
+            "name": "aromantic",
+            "animation": {
+                "style": "sweep",
+                "smooth": 1
+            },
+            "colors": ["#3BA740", "#A8D47A", "#FFFFFF", "#ABABAB", "#000000"]
+        },
+        {
+            "name": "genderqueer",
+            "animation": {
+                "style": "sweep",
+                "smooth": 1
+            },
+            "colors": ["#B57FDD", "#FFFFFF", "#49821E"]
+        },
+        {
+            "name": "genderfluid",
+            "animation": {
+                "style": "sweep",
+                "smooth": 1
+            },
+            "colors": ["#FE76A2", "#FFFFFF", "#BF12D7", "#000000", "#303CBE"]
+        },
+        {
+            "name": "korps",
+            "animation": {
+                "style": "sparkle",
+                "fade": 0,
+                "mix": 0,
+                "smooth": 1,
+            },
+            "colors": ["#FF0099", "#000000"]
+        }
+    ]
+}
