@@ -2,7 +2,7 @@
 
 ## Description
 
-Board takes the form of a raised hand (black) holding a brick (pink). The brick has a pride flag down the side of it and the text "QUEER HACKER PRIDE" in exposed copper. Two HPDL-1414 alphanumeric bubble displays show the user's pronouns on the wrist. 
+Board takes the form of a raised hand (purple) holding a brick (pink). The brick has a pride flag down the side of it and the text "QUEER HACKER PRIDE" in exposed copper. Two HPDL-1414 alphanumeric bubble displays show the user's pronouns on the wrist. 
 
 Badge is powered by alkaline batteries. 
 
