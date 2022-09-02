@@ -20,8 +20,8 @@ Badge is powered by alkaline batteries.
 * UART
 
 ## Operation
-Up/Down - Cycle Pronouns
-Left/Right - Cycle Flags
+* Up/Down - Cycle Pronouns
+* Left/Right - Cycle Flags
 
 ## PSU 
 
