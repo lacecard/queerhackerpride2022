@@ -3,12 +3,12 @@
         {
             "name": "qvp",
             "animation": {
-                "style": "sparkle",
+                "style": "sweep",
                 "fade": 0,
                 "mix": 0,
-                "smooth": 1,
+                "smooth": 1
             },
-            "colors": ["#FF0099", "#FF9933", "#99CC33", "#663399", "#000000"]
+            "colors": ["#FF0099", "#FF7800", "#99CC33", "#663399", "#000000"]
         },
         {
             "name": "trans",
@@ -16,7 +16,7 @@
                 "style": "sparkle",
                 "fade": 1,
                 "mix": 1,
-                "smooth": 1,
+                "smooth": 1
             },
             "colors": ["#5BCEFA", "#FF0099", "#FFFFFF", "#FF0099","#5BCEFA"]
         },
@@ -66,7 +66,7 @@
                 "style": "sweep",
                 "smooth": 1
             },
-            "colors": ["#D62800", "#FF9B56", "#FFFFFF", "#D462A6", "#A40062"0]
+            "colors": ["#D62800", "#FF9B56", "#FFFFFF", "#D462A6", "#A40062"]
         },
         {
             "name": "agender",
@@ -114,7 +114,7 @@
                 "style": "sparkle",
                 "fade": 0,
                 "mix": 0,
-                "smooth": 1,
+                "smooth": 1
             },
             "colors": ["#FF0099", "#000000"]
         }

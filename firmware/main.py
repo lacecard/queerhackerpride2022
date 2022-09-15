@@ -161,7 +161,7 @@ class LED_Driver:
         self.i2c.writeto_mem(self.base_addr, 0, b'\b00000001')
         self.set_global_scaling('80')
         self.blank_display()
-        self.set_global_brightness('08')
+        self.set_global_brightness('32')
         self._update_ctrl_reg()
         self.i2c.writeto_mem(self.base_addr, 0, b'\01')      # normal operation
     
